@@ -71,7 +71,7 @@
 
 - Evitar colocar muitos pâmetros, no máximo 4, passando disso criar uma classe para encapsular os parâmetros.
 
-## 1.5. ParÂmetros no topo
+## 1.5. Parâmetros no topo
 
 - Evitar que todas as variaveis fiquem no topo, sempre que possivel.
 
