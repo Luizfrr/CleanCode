@@ -65,7 +65,7 @@
 
 - Evitar:
   - def buscar_cliente(id_incidente: str) -> Fruta:
-- [Código de Exemplo](AssinaturaRuim/)
+
 
 ## 1.4. Muitos parâmetros dentro do método
 
