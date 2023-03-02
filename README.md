@@ -9,7 +9,7 @@
   - [1.2. Convenção](#12-convenção)
   - [1.3. Assinatura dos métodos](#13-assinatura-dos-métodos)
   - [1.4. Muitos parâmetros dentro do método](#14-muitos-parâmetros-dentro-do-método)
-  - [1.5. ParÂmetros no topo](#15-parâmetros-no-topo)
+  - [1.5. Parâmetros no topo](#15-parâmetros-no-topo)
   - [1.6. Parâmetros de saida](#16-parâmetros-de-saida)
   - [1.7. Números mágicos](#17-números-mágicos)
 
